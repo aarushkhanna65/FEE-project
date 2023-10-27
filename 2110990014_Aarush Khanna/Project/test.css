@@ -1,0 +1,30 @@
+.div1{
+    height:350px;
+    width:250px;
+    border:2px solid black;
+    display:flex;
+    /* justify-content: space-around */
+    align-items: self-end;
+
+}
+
+.div p{
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width:250px;
+    height:250px;
+}
+
+#p1{
+    /* padding-top:240px; */
+    /* padding-right: 0px; */
+    /* justify-content:right; */
+}
+
+/* #p2{
+    justify-content:;
+}
+ */
